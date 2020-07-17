@@ -1,0 +1,12 @@
+#container div {
+    width: 48px;
+    height: 48px;
+    border: 1px solid black;
+    float: left;
+}
+#container {
+    width: 500px;
+}
+.red {
+    color: red;
+}
